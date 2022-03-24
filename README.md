@@ -8,9 +8,9 @@
 C#
 
 ## Main Menu
-![App Screenshot](https://github.com/imumer12/Screen-Capture/blob/main/capture.png)
+![App Screenshot](https://github.com/imumer12/Video-Player/blob/main/video%20player1.png)
 ## Demo
-![App Screenshot](https://github.com/imumer12/Screen-Capture/blob/main/screenShort.png)
+![App Screenshot](https://github.com/imumer12/Video-Player/blob/main/video%20player2.png)
 
 ## License
 
